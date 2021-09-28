@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GabHasNothingToDo
 - 👀 I’m interested in Football, Programming & Tech
-- 🌱 I’m currently learning HTML and Python
-- 💞️ I’m looking to collaborate on nothing (yet)
+- 🌱 I’m currently learning HTML, Python and Java
 - 📫 How to reach me check out my Twitter (@gabrie1portelli)
 
 <!---
