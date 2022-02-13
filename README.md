@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabHasNothingToDo
+- 👋 Hi, I’m @Timpana
 - 👀 I’m interested in Football, Programming & Tech
 - 🌱 I’m currently learning HTML, Python and Java
 - 📫 How to reach me check out my Twitter (@gabrie1portelli)
